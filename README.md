@@ -1,1 +1,6 @@
-# Python Programming for Axcend Training
+# Python Programming for Axcend Training 🐍
+- If-else
+- Loops
+- Data Structures
+- OOP
+
