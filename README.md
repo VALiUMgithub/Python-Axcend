@@ -3,4 +3,5 @@
 - Loops
 - Data Structures
 - OOP
+  - Inheritance
 
